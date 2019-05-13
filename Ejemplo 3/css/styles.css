@@ -1,0 +1,97 @@
+.logo{
+  float:left;
+  padding: 10px;
+  width:220px;
+  margin:0px;
+}
+
+
+.title{
+  float:right;
+    font-size: 25px;
+    color: #747704;
+
+}
+
+.title1{
+    margin-top: -28px;
+    margin-right: 0px;
+    margin-bottom: 15px;
+    font-size: 15px;
+    color: #747704;
+    margin-left: 210px;
+
+}
+body {
+  background: #ffffff;
+
+}
+
+.line {
+  float:right;
+  background: #BCBBBB;
+  width: 100%;
+  height: 5px;
+  margin-top: -15px;
+  margin-bottom: 15px;
+
+}
+
+.ima1{
+  padding-top:150px;
+  padding-bottom: 10px;
+
+
+}
+
+.ima2{
+  float:left;
+  padding: 10px;
+  width:200px;
+  margin:0px 200px 0px -10px;
+  color: #747704;
+  font-size: 25px;
+}
+
+.ima3{
+  float:left;
+  padding: 10px;
+  width:200px;
+  margin:0px 200px 0px 35px;
+  color: #747704;
+  font-size: 25px;
+
+}
+
+
+.ima4{
+  float:left;
+  padding: 10px;
+  width:200px;
+  margin:0px 200px -100px 30px;
+  color: #747704;
+  font-size: 25px;
+}
+
+h1,
+h3 {
+  text-transform: uppercase;
+  text-align: right;
+  
+}
+
+h2 {
+   color: #bcbbbb;
+   font-weight: 400; 
+   font-size: 50px;
+   margin:15px 0px 0px 10px;
+}
+.links {
+  text-align: center;
+  margin-top: -500;
+}
+a {
+  text-decoration: none;
+  color: #BCBBBB;
+
+}
