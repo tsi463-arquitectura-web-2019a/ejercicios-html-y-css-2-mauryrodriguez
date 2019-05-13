@@ -1,0 +1,26 @@
+.title {
+		background-color: #cccc;
+		color: #ffff;
+		font-family: "Courier new"
+
+       }
+
+label {
+	font-weight: bold;
+	text-transform: uppercase;
+
+}
+
+.input-wrapper{
+	/*
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	*/
+	margin:10px 10px  10px 10px
+
+}ss
+input {
+	border: 2px solid red;
+}
